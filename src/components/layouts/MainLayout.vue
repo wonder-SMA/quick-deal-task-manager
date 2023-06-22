@@ -137,7 +137,6 @@ const onSubmit = () => {
 		padding: 1rem;
 		text-align: center;
 		text-overflow: ellipsis;
-		white-space: nowrap;
 		overflow: hidden;
 	}
 
